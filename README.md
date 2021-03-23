@@ -1,7 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Waldenth&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-
 ### Hello World! 👋
+
+<img align="right" alt="Waldenth's github stars" width="50%" src="https://github-readme-stats.vercel.app/api?username=Waldenth&show_icons=true">
 
 - 🔭 I’m currently learning SpringBoot
 - 👯 I’m looking to collaborate on Web development
