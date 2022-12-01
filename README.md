@@ -2,8 +2,7 @@
 
 <img align="right" alt="Waldenth's github stars" width="50%" src="https://github-readme-stats.vercel.app/api?username=Waldenth&show_icons=true">
 
-- 👨‍🎓  I've received Bachelor of Engineering from Wuhan University
-- 🔭  I'm going on to a CS Master in RUC
+- 👨‍🎓  I've received B.E. from WHU and going on to a CS Master in RUC
 - 🦄  I'm interested in Database System
 - 👯  I'm looking to collaborate on Web development
 - 🤔  I'm looking help with C++ and Web front-end 
