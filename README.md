@@ -1,6 +1,8 @@
 ### Hello World! 👋
-
-<img align="right" alt="Waldenth's github stars" width="40%" src="https://github-readme-stats.vercel.app/api?username=Waldenth&show_icons=true">
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waldenth&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Waldenth&theme=onedark&show_icons=ture" />
+</p>
 
 - 👨‍🎓  I've received B.E. from WHU and going on to a CS Master in RUC
 - 🦄  I'm interested in Database System
